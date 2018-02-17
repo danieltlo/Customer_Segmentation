@@ -1,6 +1,6 @@
 # Customer_Segmentation
 ## Objective
-I will use the online retail dataset from the UCI Machine Learning Repository for exploratory data analysis and customer segmentation using RFM Analysis K-Means Clustering.
+I used the online retail dataset from the UCI Machine Learning Repository for exploratory data analysis and customer segmentation using RFM Analysis K-Means Clustering.
 
 This notebook covers:
 1. Data Cleaning
